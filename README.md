@@ -36,5 +36,5 @@ ML, Applied Robotics
 
 ### Github Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=leenock&theme=dark&show_icons=true)](https://github.com/leenock)
+[![](https://github-readme-stats.vercel.app/api?username=leenock&theme=nightowl&show_icons=true)](https://github.com/leenock)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=leenock&theme=great-gatsby&layout=compact)](https://github.com/leenock/github-readme-stats) 
