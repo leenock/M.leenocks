@@ -1,7 +1,12 @@
 
-## Hi there, I'm Enoch .M 👋
+## Enoch.M  @leenock_
 
-Currently im working as a Full stack Software Engineer, I prefer working with languages like I have also had experience working with Html, CSS, Javascript, Typescript, Node, Bulma, MySQL etc..
+Currently I am a software Engineer , My focus is to build a solid foundation of knowledge I can use to build things.
+
+- 🏫 I’m currently learning [Artificial Intelligence](https://www.apu.edu.my/),[AI](https://www.dmu.ac.uk/home.aspx), [Python](https://www.python.org/), 
+ML, Robotics
+- 💬 I enjoy connecting with people from all walks of life, so please don't hesitate to contact me [here](https://www.linkedin.com/in/enoch-m-356368b8/)
+
 
 ### Languages, Tools & Frameworks 
 
