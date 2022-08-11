@@ -3,8 +3,8 @@
 
 Currently I am a software Engineer , My focus is to build a solid foundation of knowledge I can use to build things.
 
-- 🏫 I’m currently learning Artificial Intelligence,[AI](https://www.dmu.ac.uk/home.aspx), [Python](https://www.python.org/), 
-ML, Robotics
+- 🏫 I’m currently learning Artificial Intelligence,[AI](https://www.dmu.ac.uk/home.aspx), [Python](https://www.python.org/), IPCV,
+ML, Applied Robotics
 - 💬 I enjoy connecting with people from all walks of life, so please don't hesitate to contact me [here](https://www.linkedin.com/in/enoch-m-356368b8/)
 
 
