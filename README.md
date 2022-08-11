@@ -1,7 +1,7 @@
 
 ## Enoch.M  @leenock_
 
-Currently I am a software Engineer , My focus is to build a solid foundation of knowledge I can use to build things.
+Currently, I am a software engineer. My focus is to build a solid foundation of knowledge I can use to build things.
 
 - 🏫 I’m currently learning Artificial Intelligence,[AI](https://www.dmu.ac.uk/home.aspx), [Python](https://www.python.org/), IPCV,
 ML, Applied Robotics
