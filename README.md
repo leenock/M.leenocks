@@ -43,7 +43,7 @@ ML, Applied Robotics
 <p align="left">
   <a href="https://github.com/leenock">
 <p align="left">
-   <p align="center"> <a href="https://github.com/leenock/github-profile-trophy">
+   <p align="left"> <a href="https://github.com/leenock/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=leenock" alt="leenock" /></a> </p>
   </a>
 </p>
