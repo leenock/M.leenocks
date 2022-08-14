@@ -1,7 +1,7 @@
 
 ## Enoch.M  @leenock_
 
-Currently, I am a software engineer. My focus is to build a solid foundation of knowledge I can use to build things.
+Currently, I am a  I'm a software engineer | full Stack Developer. My focus is to build a solid foundation of knowledge I can use to build things.
 
 - 🏫 I’m currently learning Artificial Intelligence,[AI](https://www.dmu.ac.uk/home.aspx), [Python](https://www.python.org/), IPCV,
 ML, Applied Robotics
@@ -9,6 +9,7 @@ ML, Applied Robotics
 
 
 ### Languages, Tools & Frameworks 
+ Here is the list of the technologies I'm currently using
 
 <div align="left">
 <img align="center" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"> 
@@ -38,3 +39,13 @@ ML, Applied Robotics
 
 [![](https://github-readme-stats.vercel.app/api?username=leenock&theme=nightowl&show_icons=true)](https://github.com/leenock)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=leenock&theme=great-gatsby&layout=compact)](https://github.com/leenock/github-readme-stats) 
+
+<p align="left">
+  <a href="https://github.com/leenock">
+<p align="left">
+   <p align="center"> <a href="https://github.com/leenock/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=leenock" alt="leenock" /></a> </p>
+  </a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=leenock&label=PROFILE+VIEWS)
