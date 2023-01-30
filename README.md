@@ -1,7 +1,7 @@
 
 ## Enoch.M  @leenock_
 
-Currently, I'm a software engineer | full Stack Developer. My focus is to build a solid foundation of knowledge I can use to build things.
+Currently, I'm a software engineer | full Stack Web-Developer. My focus is to build a solid foundation of knowledge I can use to build things.
 
 - 🏫 I’m currently learning Artificial Intelligence,[AI](https://www.dmu.ac.uk/home.aspx), [Python](https://www.python.org/), IPCV,
 ML, Applied Robotics
