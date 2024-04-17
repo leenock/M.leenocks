@@ -2,7 +2,7 @@
 ## Enoch.M  @leenock_
 
 Currently, I'm a software engineer | full Stack Web-Developer. My focus is to build a solid foundation of knowledge I can use to build things.
-- 💬 I enjoy connecting with people from all walks of life, so please don't hesitate to contact me [here](https://www.linkedin.com/in/enoch-m-356368b8/)
+- 💬 I enjoy connecting with people from all walks of life, so please don't hesitate to contact me.
 
 
 ### Languages, Tools & Frameworks 
@@ -31,13 +31,3 @@ Currently, I'm a software engineer | full Stack Web-Developer. My focus is to bu
 </div>
 
 ***
-
-<p align="left">
-  <a href="https://github.com/leenock">
-<p align="left">
-   <p align="left"> <a href="https://github.com/leenock/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=leenock" alt="leenock" /></a> </p>
-  </a>
-</p>
-
-![](https://komarev.com/ghpvc/?username=leenock&label=PROFILE+VIEWS)
