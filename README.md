@@ -1,5 +1,5 @@
 
-## Enoch.M  @leenock_
+## @leenocks
 
 Currently, I'm a software engineer | full Stack Web-Developer. My focus is to build a solid foundation of knowledge I can use to build things.
 - 💬 I enjoy connecting with people from all walks of life, so please don't hesitate to contact me.
