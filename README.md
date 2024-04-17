@@ -1,11 +1,11 @@
 
-##### leenock
+#### leenock
 
  Software Engineer | full-stack web developer | IT consulting services
  💬 I enjoy connecting with people from all walks of life, so please don't hesitate to contact me.
 
 
-##### Languages, Tools & Frameworks 
+#### Languages, Tools & Frameworks 
 <div align="left">
 <img align="center" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"> 
 <img align="center" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
