@@ -6,8 +6,6 @@
 
 
 ### Languages, Tools & Frameworks 
- Here is the list of the technologies I'm currently using
-
 <div align="left">
 <img align="center" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"> 
 <img align="center" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
