@@ -1,7 +1,7 @@
 
 ### leenocks
 
-A software engineer | full Stack Web-Developer.
+ Software Engineer | full Stack Web-Developer.
  💬 I enjoy connecting with people from all walks of life, so please don't hesitate to contact me.
 
 
